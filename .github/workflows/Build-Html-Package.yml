@@ -53,7 +53,7 @@ jobs:
       - name: SugarCube-2
         uses: actions/checkout@v4
         with:
-          repository: Lyoko-Jeremie/sugarcube-2_Vrelnir
+          repository: NumberSir/sugarcube-2_Vrelnir
           path: SC2
           ref: TS
           #submodules: recursive
